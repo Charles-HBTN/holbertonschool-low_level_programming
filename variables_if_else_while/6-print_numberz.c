@@ -1,6 +1,9 @@
 #include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
 
-int void(main) {
+int void(main) 
+{
 	int i;
 
 	for (i = 0; i <= 9; i++)
