@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-int void(main) 
+int main(void) 
 {
 	int i;
 
