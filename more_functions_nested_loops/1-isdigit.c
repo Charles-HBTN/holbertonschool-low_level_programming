@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * _isdigit - Check if the character is between '0' and '9'
  * tested character
